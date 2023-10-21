@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Area", "01-Area\01-Area.csproj", "{9518B971-AF2E-441B-93C4-FF42A71A4271}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-Area", "01-Area\01-Area.csproj", "{9518B971-AF2E-441B-93C4-FF42A71A4271}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandardDeviation", "StandardDeviation\StandardDeviation.csproj", "{D333DCEA-BD04-4A6D-B11D-A6EEE511E48F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-StandardDeviation", "StandardDeviation\02-StandardDeviation.csproj", "{D333DCEA-BD04-4A6D-B11D-A6EEE511E48F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
