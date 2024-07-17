@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-Area", "01-Area\01-Area.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-StandardDeviation", "StandardDeviation\02-StandardDeviation.csproj", "{D333DCEA-BD04-4A6D-B11D-A6EEE511E48F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insertion Sort", "Insertion Sort\Insertion Sort.csproj", "{79C74CA0-5F31-498D-9735-1247CC9AB8AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Insertion Sort", "Insertion Sort\Insertion Sort.csproj", "{79C74CA0-5F31-498D-9735-1247CC9AB8AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Sort", "Merge Sort\Merge Sort.csproj", "{C0B43D43-A387-4E42-86B9-D0BBA179D9CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{79C74CA0-5F31-498D-9735-1247CC9AB8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79C74CA0-5F31-498D-9735-1247CC9AB8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79C74CA0-5F31-498D-9735-1247CC9AB8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B43D43-A387-4E42-86B9-D0BBA179D9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B43D43-A387-4E42-86B9-D0BBA179D9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B43D43-A387-4E42-86B9-D0BBA179D9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B43D43-A387-4E42-86B9-D0BBA179D9CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
