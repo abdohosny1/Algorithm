@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Insertion Sort", "Insertion
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Merge Sort", "Merge Sort\Merge Sort.csproj", "{C0B43D43-A387-4E42-86B9-D0BBA179D9CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Search", "Binary Search\Binary Search.csproj", "{DE37B6CF-09E4-4028-84D4-65DF42987F86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binary Search", "Binary Search\Binary Search.csproj", "{DE37B6CF-09E4-4028-84D4-65DF42987F86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Segregate_Positive_And _Negative_Numbers", "Segregate_Positive_And _Negative_Numbers\Segregate_Positive_And _Negative_Numbers.csproj", "{E85C5559-152B-459A-ADFB-B6FDF81B5C53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DE37B6CF-09E4-4028-84D4-65DF42987F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE37B6CF-09E4-4028-84D4-65DF42987F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE37B6CF-09E4-4028-84D4-65DF42987F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85C5559-152B-459A-ADFB-B6FDF81B5C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85C5559-152B-459A-ADFB-B6FDF81B5C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85C5559-152B-459A-ADFB-B6FDF81B5C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85C5559-152B-459A-ADFB-B6FDF81B5C53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
